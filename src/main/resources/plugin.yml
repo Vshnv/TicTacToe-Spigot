@@ -1,0 +1,6 @@
+name: Tictactoe
+version: @version@
+main: io.github.vshnv.mc.tictactoe.Tictactoe
+api-version: 1.16
+authors: [Vshnv]
+description: Simple tictactoe game
